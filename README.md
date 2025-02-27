@@ -66,10 +66,6 @@ License
 
 This project is open-source under the MIT License.
 
-Author
-
-Your Name - https://github.com/Divyasreevaka
-
 Contributions
 
 Contributions are welcome! Feel free to open an issue or submit a pull request to improve the project. Contributions are welcome! Feel free to open an issue or submit a pull request to improve the project.
